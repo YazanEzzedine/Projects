@@ -1,0 +1,9 @@
+Chicken Tacos,468
+Broccolli Soup,206
+Sesame Noodles,61
+Scrambled Egg Pitas,239
+Scallop Scampi,166
+Cereal,350
+Oatmeal,158
+Steak and Baked Potato,840
+Half Rotisserie Chicken,500

@@ -1,4 +1,4 @@
-These are all of my solo projects that I have done using my own code and personal resources.
+These are all of my solo projects that I have done using my code and personal resources.
 These are comprised of:
 Java Projects
 Python Projects
